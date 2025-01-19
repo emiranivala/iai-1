@@ -18,5 +18,5 @@ SUPPORT_GRP = "TG_FRIENDSS"
 UPDATE_CHNL = "VIP_CREATORS"
 OWNER_USERNAME = "THE_VIP_BOY"
 # GIT TOKEN ( if your edited repo is private)
-GIT_TOKEN = getenv("GIT_TOKEN", "")
+GIT_TOKEN = getenv("GIT_TOKEN", None)
     
